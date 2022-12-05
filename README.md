@@ -21,4 +21,4 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/wbrfi1frdmngox64/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-hoc-highlight/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/exscusaatd77wu2b/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-hoc-highlight/branch/main)
